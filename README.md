@@ -19,7 +19,7 @@ Features
 - Simple, clean, and responsive Flutter UI
 
 Screenshots
-![Malinaw Dashboard](image/malinaw.png)
+![Malinaw Dashboard](malinaw.png)
 
 Technologies Used
 - Flutter (for mobile app development)
