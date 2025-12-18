@@ -1,16 +1,39 @@
-# water_quality
+Overview
 
-A new Flutter project.
+Project Malinaw Pagdanum is a Flutter-based mobile application designed to monitor water quality in real-time. The app receives data from IoT sensors connected to an ESP32 and stores it in Firebase Realtime Database for live monitoring and analysis.
 
-## Getting Started
+The mobile app allows users to view:
 
-This project is a starting point for a Flutter application.
+Water Temperature
 
-A few resources to get you started if this is your first Flutter project:
+Turbidity
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+pH Level
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ORP (Oxidation-Reduction Potential)
+
+TDS (Total Dissolved Solids)
+
+All data updates in real-time through Firebase, providing an accessible and user-friendly interface for water quality monitoring.
+
+Features
+
+Real-time display of water parameters
+
+Firebase Realtime Database integration
+
+Historical data logging
+
+Simple, clean, and responsive Flutter UI
+
+Screenshots
+
+
+
+Dashboard showing live water quality readings
+
+Technologies Used
+
+Flutter (for mobile app development)
+
+Firebase Realtime Database (for live data storage and synchronization)
